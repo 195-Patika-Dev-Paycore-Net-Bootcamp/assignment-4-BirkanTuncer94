@@ -13,6 +13,8 @@ In this API, k means algorithm is used.
 
 <h3> Visualization of the two-dimensional array I used in clustering. </h3>
 
+In this image, the process of dividing 7 containers into 3 clusters is visualized. The horizontal plane of the two-dimensional array represents the clusters, and the vertical plane represents the elements placed in these clusters.
+
 ![paintkume](https://user-images.githubusercontent.com/97250941/189360475-432e7054-fcd4-4df4-85f7-1900e9e58f1b.png)
 
 <h3> There is only one controller in the API. Optimization control. </h3>
