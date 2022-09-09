@@ -1,6 +1,11 @@
 <h1> Birkan Tunçer Homework-4 PayCore Optimization of garbage container collector vehicle </h1>
 
 
+In this API, an algorithm has been written that clusters the waste containers according to their location in order to increase the efficiency of the vehicles that collect the waste containers. With this clustering, a clustering is made according to the number of vehicles or the number of trips. Containers located close to each other are placed in these clusters and optimization is increased as much as possible.
+
+
+
+
 <h3> K means visualization. </h3>
 
 <img width="372" alt="kmeansalgoritmagorsel" src="https://user-images.githubusercontent.com/97250941/189362050-43df76ce-ed2c-4aec-b2f6-93803a699606.png">
