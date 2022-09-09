@@ -30,4 +30,5 @@ In this API, k means algorithm is used.
 <h2> References </h2>
 
 https://www.cihanyakar.com/k-means/
+https://www.kodyazma.com/2014/04/k-means-kumeleme-algoritmasi-c-sharp.html
 
