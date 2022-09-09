@@ -1,6 +1,9 @@
 <h1> Birkan Tunçer Homework-4 PayCore Optimization of garbage container collector vehicle </h1>
 
 
+<h3> K means visualization. </h3>
+
+<img width="372" alt="kmeansalgoritmagorsel" src="https://user-images.githubusercontent.com/97250941/189362050-43df76ce-ed2c-4aec-b2f6-93803a699606.png">
 
 <h3> Visualization of the two-dimensional array I used in clustering. </h3>
 
