@@ -2,6 +2,7 @@
 
 
 In this API, an algorithm has been written that clusters the waste containers according to their location in order to increase the efficiency of the vehicles that collect the waste containers. With this clustering, a clustering is made according to the number of vehicles or the number of trips. Containers located close to each other are placed in these clusters and optimization is increased as much as possible.
+In this API, k means algorithm is used.
 
 
 
