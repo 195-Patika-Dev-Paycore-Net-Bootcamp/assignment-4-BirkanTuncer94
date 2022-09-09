@@ -27,3 +27,7 @@ In this API, k means algorithm is used.
 
 ![Swagger3](https://user-images.githubusercontent.com/97250941/189358726-667856fe-f12a-4ed1-ad77-63bd8d77a2e0.png)
 
+<h2> References </h2>
+
+https://www.cihanyakar.com/k-means/
+
